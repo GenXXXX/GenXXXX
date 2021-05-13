@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Colder's github stats][readme-stats-img]
+![GenX's github stats][readme-stats-img]
 
 ![Top Langs][readme-stats-top-langs-img]
 
